@@ -3,6 +3,8 @@
 
 - 🔭 I completed Masters Majoring **Embedded Systems**
 
+- 🌱 I have 2 years experience in **Software Development field**
+
 - 🔭 I completed Bachelor Majoring **Electrical and Electronic Engineering**
 
 - 📝 I had my masters thesis on **Deep Learning and Robotics**
