@@ -3,7 +3,7 @@
 
 - 🔭 I completed Masters Majoring **Embedded Systems**
 
-- 🌱 I have 3 years experience in **Software Development field**
+- 🌱 I have 4 years experience in **Software Development and IT support field**
 
 - 🔭 I completed Bachelor Majoring **Electrical and Electronic Engineering**
 
